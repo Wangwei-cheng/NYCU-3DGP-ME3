@@ -15,6 +15,8 @@ public class MenuMgr : MonoBehaviour
     private GameObject[] Pages;
     private int PageNum;
 
+    private int curLevel;
+
     public static MenuMgr instance;
 
     private void Awake()
@@ -110,6 +112,7 @@ public class MenuMgr : MonoBehaviour
         {
             MoveToPage(0);
             CloseMenu();
+            curLevel = level;
             SceneManager.LoadScene(level);
         }
     }

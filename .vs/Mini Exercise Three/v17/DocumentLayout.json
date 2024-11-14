@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\controlpanelmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlpanelmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|c:\\users\\wilsonw\\workspace\\nycu\\class\\3d game programming\\mini exercise\\mini exercise three\\assets\\scripts\\zombiestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|c:\\users\\wilsonw\\workspace\\nycu\\class\\3d game programming\\mini exercise\\mini exercise three\\assets\\scripts\\audiomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|c:\\users\\wilsonw\\workspace\\nycu\\class\\3d game programming\\mini exercise\\mini exercise three\\assets\\scripts\\menumgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\data persistence\\datapersistencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\data persistence\\datapersistencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\data persistence\\filedatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\data persistence\\filedatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\data persistence\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\data persistence\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\audiomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\zombiestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA918E55-0B16-5297-3B09-DB7ADAAF40F0}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\assets\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,37 +54,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ZombieState.cs",
-              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\ZombieState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieState.cs",
-              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\ZombieState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ZombieState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T13:48:31.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AudioMgr.cs",
-              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\AudioMgr.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioMgr.cs",
-              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\AudioMgr.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioMgr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T13:47:50.944Z",
+              "WhenOpened": "2024-11-13T07:04:41.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MenuMgr.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\MenuMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuMgr.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\MenuMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:55:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataPersistenceManager.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Data Persistence\\DataPersistenceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Data Persistence\\DataPersistenceManager.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Data Persistence\\DataPersistenceManager.cs",
+              "RelativeToolTip": "Assets\\Data Persistence\\DataPersistenceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:38:06.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Data Persistence\\FileDataHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Data Persistence\\FileDataHandler.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Data Persistence\\FileDataHandler.cs",
+              "RelativeToolTip": "Assets\\Data Persistence\\FileDataHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:19:45.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zombie.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zombie.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:23:58.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:45:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Data Persistence\\Data\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Data Persistence\\Data\\GameData.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Data Persistence\\Data\\GameData.cs",
+              "RelativeToolTip": "Assets\\Data Persistence\\Data\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:42:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZombieState.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\ZombieState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieState.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\ZombieState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:48:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlPanelMgr.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\ControlPanelMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlPanelMgr.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\ControlPanelMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlPanelMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:23:35.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioMgr.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\AudioMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioMgr.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\AudioMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioMgr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:47:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Sound.cs",
               "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Sound.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound.cs",
@@ -64,21 +194,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Sound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T13:47:33.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Zombie.cs",
-              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Zombie.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Zombie.cs",
-              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Three\\Assets\\Scripts\\Zombie.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Zombie.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvzcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:23:58.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T13:47:33.531Z"
             }
           ]
         }

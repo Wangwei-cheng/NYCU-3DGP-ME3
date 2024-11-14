@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player : MonoBehaviour, IDataPersistence
 {
     public Character[] characters;
     
@@ -17,6 +17,18 @@ public class Player : MonoBehaviour
 
     private static Player instance;
     public static Player Instance { get { return instance; } }
+
+    public void LoadData(GameData data)
+    {
+        this.transform.position = data.playerPosition;
+        this.transform.rotation = data.playerRotation;
+    }
+
+    public void SaveData(ref GameData data)
+    {
+        data.playerPosition = this.transform.position;
+        data.playerRotation = this.transform.rotation;
+    }
 
     private void Awake()
     {
